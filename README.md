@@ -1,1 +1,2 @@
 # Vislice
+Janez JANša

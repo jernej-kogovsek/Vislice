@@ -4,3 +4,4 @@
 -Ivan Vidav
 -Josip Plemelj   
 -Janez Janša
+-Borut Pahor
